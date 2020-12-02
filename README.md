@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# WTY
+## Stats
+![RoseAlice2018's github stats](https://github-readme-stats.vercel.app/api?username=RoseAlice2018&theme=tokyonight)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoseAlice2018&layout=compact&theme=tokyonight)
