@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoseAlice2018&layout=compact&theme=tokyonight)
 
 <!--START_SECTION:waka-->
+```text
+C++     4 hrs 14 mins   █████████████████████████   99.95 % 
+```
 <!--END_SECTION:waka-->
