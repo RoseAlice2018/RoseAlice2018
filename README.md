@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoseAlice2018&layout=compact&theme=tokyonight)
 
+📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
 C++     4 hrs 14 mins   █████████████████████████   99.95 % 
