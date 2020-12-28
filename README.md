@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: website
 - ⚡ Fun fact: Fan of 石原さとみ
 
-# WTY
+
 ## Stats
 ![RoseAlice2018's github stats](https://github-readme-stats.vercel.app/api?username=RoseAlice2018&theme=tokyonight)
 
