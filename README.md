@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++/Go
 - 💬 Ask me about C++/Network
 - 📫 How to reach me: website
-- ⚡ Fun fact: Fan of 石原さとみ
+- ⚡ Fun fact: Fan of 石原さとみ and いちはら ゆうこ
 
 
 ## Stats
