@@ -15,7 +15,7 @@ Here are some information about me.
 ![RoseAlice2018's github stats](https://github-readme-stats.vercel.app/api?username=RoseAlice2018&theme=tokyonight)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoseAlice2018&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoseAlice2018)](https://github.com/anuraghazra/github-readme-stats)
 
 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
