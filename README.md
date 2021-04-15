@@ -23,3 +23,6 @@ C++    1 hr 29 mins    ████▓░░░░░░░░░░░░░░
 
 ## Stats
 ![RoseAlice2018's github stats](https://github-readme-stats.vercel.app/api?username=RoseAlice2018&theme=tokyonight)
+
+## Weekly Language
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RoseAlice2018)
