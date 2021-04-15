@@ -12,11 +12,11 @@ Here are some information about me.
 
 
 ## Weekly Language
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RoseAlice2018)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RoseAlice2018&theme=tokyonight)
 
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoseAlice2018)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoseAlice2018&theme=tokyonight)]
 
 
 ## Stats
