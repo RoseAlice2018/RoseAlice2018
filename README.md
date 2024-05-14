@@ -11,9 +11,9 @@ Here are some information about me.
 - ⚡ Fun fact: Fan of 石原さとみ and いちはら ゆうこ
 
 ## Yearly Goal 2024
-- [] 股票量化交易框架
-- [] 个人资产统计划分框架
-- [] 游戏服务器引擎框架
+- [ ] 股票量化交易框架
+- [ ] 个人资产统计划分框架
+- [ ] 游戏服务器引擎框架
 
 ## Weekly Language
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RoseAlice2018&theme=tokyonight)
