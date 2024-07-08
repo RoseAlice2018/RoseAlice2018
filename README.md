@@ -5,10 +5,11 @@
 
 Here are some information about me.
 
-- 🌱 I’m currently learning C++/Go/Python/Java/
+- 🌱 I’m currently learning C++/Go/Python
 - 💬 Ask me about C++/Network
 - 📫 How to reach me: website
-- ⚡ Fun fact: Fan of 石原さとみ and いちはら ゆうこ
+- ⚡ Fun fact: Fan of 石原さとみ ， いちはら ゆうこ ， 刘亦菲
+- 👁  Love Reading
 
 ## Yearly Goal 2024
 - [ ] 股票量化交易框架
