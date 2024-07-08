@@ -14,6 +14,7 @@ Here are some information about me.
 - [ ] 股票量化交易框架
 - [ ] 个人资产统计划分框架
 - [ ] 游戏服务器引擎框架
+- [ ] AI搜索
 
 ## Weekly Language
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RoseAlice2018&theme=tokyonight)
