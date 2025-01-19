@@ -11,7 +11,7 @@ Here are some information about me.
 - ⚡ Fun fact: Fan of 石原さとみ ， いちはら ゆうこ ， 刘亦菲
 - 👁  Love Reading
 
-## Yearly Goal 2024
+## Yearly Goal 2025
 - [ ] 股票量化交易框架
 - [ ] 个人资产统计划分框架
 - [ ] 游戏服务器引擎框架
