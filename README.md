@@ -6,6 +6,7 @@
 Here are some information about me.
 
 - 🌱 I’m currently learning C++/Python
+![Static Badge](https://img.shields.io/badge/C%2B%2BC%2B%2B)
 - 💬 Ask me about C++/Network
 - 📫 How to reach me: website
 - ⚡ Fun fact: Fan of 石原さとみ ， いちはら ゆうこ ， 刘亦菲
