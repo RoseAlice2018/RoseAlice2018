@@ -15,13 +15,3 @@ Here are some information about me.
 - [ ] A股 Agent交易系统
 - [ ] 游戏服务器引擎框架
 
-## Weekly Language
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RoseAlice2018&theme=tokyonight)
-
-
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoseAlice2018&theme=tokyonight)]
-
-
-## Stats
-![RoseAlice2018's github stats](https://github-readme-stats.vercel.app/api?username=RoseAlice2018&theme=tokyonight)
