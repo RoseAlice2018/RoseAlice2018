@@ -11,7 +11,7 @@ Here are some information about me.
 - ⚡ Fun fact: Fan of 石原さとみ ， いちはら ゆうこ ， 刘亦菲
 - 👁  Love Reading
 
-## Yearly Goal 2025
-- [ ] A股 Agent交易系统
-- [ ] 游戏服务器引擎框架
+## Yearly Goal 2026
+- [ ] Agent交易系统
+- [ ] LLM && PostTrain
 
