@@ -14,4 +14,6 @@ Here are some information about me.
 ## Yearly Goal 2026
 - [ ] Agent交易系统
 - [ ] LLM && PostTrain
+- [ ] AI NPC
+- [ ] 
 
